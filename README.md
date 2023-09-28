@@ -1,2 +1,4 @@
-# silver-train
-Este un ejemplo de repositorio en GitHub 
+Curso de programacion Henry
+Ejemplo del Modulo2 sobre repositrio en Github.
+
+
